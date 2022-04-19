@@ -1,0 +1,19 @@
+.categoryCardTitle {
+  color: brown;
+}
+.categoryCardWrap {
+  background: #f7f7f7;
+  position: absolute;
+  width: 858px;
+  height: 614px;
+  left: 0px;
+  top: 0px;
+
+  /* off-white */
+
+  background: #f7f7f7;
+  opacity: 0.1;
+  border-radius: 8px 8px 0px 0px;
+}
+.categoryCardContent {
+}

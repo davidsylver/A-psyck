@@ -1,0 +1,199 @@
+.groupDiv22,
+.groupDiv27,
+.groupDiv31 {
+  position: absolute;
+  top: 111px;
+  left: 0;
+  width: 740px;
+  height: 71px;
+}
+.groupDiv22,
+.groupDiv31 {
+  top: 222px;
+  width: 338px;
+}
+.groupDiv22 {
+  top: 678px;
+  left: 58px;
+  width: 741px;
+  height: 293px;
+  font-size: 14px;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #151515;
+  width: 858px;
+  height: 1021px;
+  overflow: hidden;
+  text-align: left;
+}
+.howToCalculateStopLossAnd {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 128.52%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 739px;
+}
+.groupDiv33,
+.vectorIcon1 {
+  position: absolute;
+  top: 85.5px;
+  left: 305.98px;
+  width: 128px;
+  height: 21px;
+}
+.groupDiv33 {
+  top: 0;
+  left: 30px;
+  width: 739px;
+  height: 107px;
+}
+.theStopLossAndorTakeProf {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 128.52%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 798px;
+}
+.theStopLoss {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.forSyntheticAccounts {
+  margin: 0;
+}
+.theStopLossContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.stopLossAndorTakeProfitL,
+.stopLossAndorTakeProfitP,
+.theStopLossAndorTakeProf1 {
+  position: absolute;
+  top: 240px;
+  left: 0;
+  line-height: 128.52%;
+  display: flex;
+  align-items: center;
+  width: 798px;
+}
+.stopLossAndorTakeProfitL,
+.stopLossAndorTakeProfitP {
+  top: 0;
+  justify-content: center;
+  width: 708.01px;
+}
+.stopLossAndorTakeProfitP {
+  top: 84px;
+}
+.groupDiv35 {
+  position: absolute;
+  top: 78px;
+  left: 45px;
+  width: 708.01px;
+  height: 130px;
+  color: #b89f1b;
+}
+.groupDiv32,
+.groupDiv34 {
+  position: absolute;
+  top: 153px;
+  left: 100;
+  width: 798px;
+  height: 401px;
+  font-size: 18px;
+}
+.groupDiv32 {
+  top: 1366px;
+  left: 350px;
+
+  font-size: 30px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+.wouldYouLikeToGetNotified {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 128.52%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 761px;
+}
+.vectorIcon2 {
+  position: absolute;
+  top: 77.5px;
+  left: 316.98px;
+  width: 128px;
+  height: 21px;
+}
+.frameDiv3,
+.groupDiv37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 761px;
+  height: 99px;
+}
+.frameDiv3 {
+  top: 131px;
+  left: 282px;
+  border-radius: 8px;
+  background-color: #b89f1b;
+  width: 200px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+}
+.groupDiv36 {
+  position: absolute;
+  top: 1069px;
+  left: 340px;
+  width: 761px;
+  height: 189px;
+  font-size: 24px;
+  color: #b89f1b;
+}
+.frameDiv,
+.groupDiv5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 858px;
+  height: 1920px;
+}
+.frameDiv {
+  top: 1163px;
+  left: 291px;
+  font-size: 13px;
+  color: #151515;
+}
+.desktopViewDiv {
+  display: flex;
+  background-color: #191919;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+  font-size: 56px;
+  color: #fff;
+  font-family: Inter;
+}
